@@ -13,3 +13,5 @@ last checked 01/03/2021
 - https://www.poliigon.com/search/free?type=textures
 - https://assetstore.unity.com/?free=true&q=textures&orderBy=1
 
+## texture and normal map generation
+- https://jsplacementweb.pages.dev
